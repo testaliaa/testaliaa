@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @testaliaa
 - 👀 I’m interested in technology, machine learning, AI, and cats.
 - 🌱 I’m currently learning Java. 
-- 💞️ I’m looking to collaborate on any object-oriented programmmin. 
+- 💞️ I’m looking to collaborate on any object-oriented programmming. 
 - 📫 How to reach me liatesta1@gmail.com
 
 <!---
